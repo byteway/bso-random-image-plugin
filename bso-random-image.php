@@ -1,8 +1,10 @@
 <?php
 /*
 Plugin Name: BSO Random Image Plugin
+Plugin URI: https://byteway.eu/wp/random-image-wordpress-plugin/
 Description: A plugin to display random images from a folder.
 Version: 1.0
+License: GPLv2 or later
 Author: Byteway Software Ontwikkeling
 
 **Explanation of the functions in the plugin**
